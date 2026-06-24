@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2fPpwXTb1Is=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\meche\\Downloads\\ControlLab\\ControlLab\\ControlLab.ClienteWindows\\ControlLab.ClienteWindows.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\meche\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.28\\microsoft.netcore.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\meche\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.28\\microsoft.windowsdesktop.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\meche\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.28\\microsoft.aspnetcore.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\meche\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.28\\microsoft.netcore.app.host.win-x64.8.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
